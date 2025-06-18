@@ -11,16 +11,18 @@
 ## 📸 Screenshots
 
 ### 🏠 Dashboard Overview
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/user-attachments/assets/13465489-5321-44c4-96eb-454ab61709f7)
 
 ### 👤 User Registration
-![Registration](screenshots/registration.png)
+![Registration](https://github.com/user-attachments/assets/3eacdad8-9c70-4caa-ac51-dce2a892df0d)
 
 ### 👤 User Login
-![Registration](screenshots/registration.png)
+![Registration](https://github.com/user-attachments/assets/1ef262a5-a27c-4b97-82c5-847629190971)
 
 ### 🔐 Admin Panel
-![Admin Panel](screenshots/admin-panel.png)
+![Admin Panel](https://github.com/user-attachments/assets/779d37b7-00a3-4e01-a19f-3fce189bab78)
+
+
 
 
 ## ✨ Features
